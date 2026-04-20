@@ -23,13 +23,9 @@ The execution layer enforces them with deterministic precision.**
   else. The boundary is structural, not stylistic.
 
 - **Role Names Are Behavioral Contracts** — Mentor opens genuine collaboration;
-  Explainer closes it. Cognitive separation across roles is achieved through
-  temperature and extended thinking configuration — not by switching models.
+  Explainer closes it. Cognitive separation across roles is achieved through temperature and extended thinking configuration — not by switching models. In V5.0, all daily operational roles run on the same model. The only meaningful boundary is role definition.
 
-- **Cache as Economic Foundation** — Append-only session discipline keeps cache
-  prefixes stable. One Opus Fusion call at session end synthesizes all raw
-  materials into the next session's cold-start document — compounding forward
-  as a multiplier on all future work.
+- **Cache as Economic Foundation** — Append-only session discipline keeps cache prefixes stable. All Sonnet 4.6 roles share the same Unified Plan + Unified Spec prefix block — written once per session, hit by every subsequent role at one-tenth cost. One Opus Fusion call at session end synthesizes all raw materials simultaneously into the next session's cold-start document, compounding forward as a multiplier on all future work.
 
 ---
 
